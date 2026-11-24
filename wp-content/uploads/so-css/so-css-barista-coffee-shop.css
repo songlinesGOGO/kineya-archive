@@ -1,0 +1,30 @@
+.wp-block-button .wp-block-button__link:hover {
+  background-color: #865439;
+  color: #fcdec0;
+}
+
+.woocommerce ul.products li.product .button {
+  font-weight: normal;
+}
+
+.woocommerce div.product form.cart .button {
+  font-weight: normal;
+}
+
+.woocommerce-Price-amount.amount {
+  font-size: 16px;
+  color: #404040;
+}
+
+bdi {
+  font-size: 16px;
+}
+
+.has-white-color.has-text-color {
+  font-family: Libre Baskerville;
+}
+
+.wc-block-grid__product .wc-block-grid__product-title {
+  color: #fcdec0;
+  font-weight: normal;
+}
